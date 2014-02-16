@@ -21,8 +21,8 @@ public class Prueba {
     {        
     }
     
-    private String nombre = "Hola Arley hhhhhhhhnnnnn";
-    private String algo = "hhhhhnnnnn";
+    private String nombre = "prueba 2";
+    private String algo = "prueba 2";
 
     public String getNombre() {
         return nombre;
